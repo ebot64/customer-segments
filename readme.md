@@ -1,4 +1,4 @@
-# Unsupervised Learning - Bank Customers Segmentation
+# Unsupervised Learning - AllLife Bank Customers Segmentation
 
 ## Description
 
